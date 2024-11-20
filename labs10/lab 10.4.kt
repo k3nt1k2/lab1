@@ -9,6 +9,7 @@ fun fizzBuzz(n: Int): List<String> {
             else -> result.add(i.toString())
     }
 
+}
     return result
 }
 
